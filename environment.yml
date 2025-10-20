@@ -1,0 +1,20 @@
+name: pyt_gpu310
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=11.8
+  - torchvision
+  - torchaudio
+  - scipy
+  - pandas
+  - tqdm
+  - scikit-learn
+  - ipykernel
+  - timm
+  - scikit-image
+  - numpy
+  - shap
+  - lime
+prefix: C:\Users\ASUS\Miniconda3\envs\pyt_gpu310
